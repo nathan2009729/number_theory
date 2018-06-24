@@ -66,3 +66,5 @@ $$\blacksquare$$
 
 ![](https://i.imgur.com/7jwWd1K.png)
 ![](https://i.imgur.com/cnwNcwt.png)
+
+$$\bf Coro\ 2$$尤其有趣，它證明很簡單，但很難想到要去用它，它可以應用在Problem 2.2的19(b)。
